@@ -17,7 +17,34 @@ public class Cpd3314Assign1 {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        System.out.println("Hello World!");
+        /**********************************
+         * Assignment #1
+         * Name- jatinder singh
+         * c number- c0666266
+         * 
+         * job posting
+         *  http://www.selacanada.ca/?CategoryID=1140&ArticleID=535&Page=1
+
+         *  Java/J2EE Developer - sela canada - toronto
+
+         *  J2EE - java enterprise edition - https://en.wikipedia.org/wiki/Java_Platform,_Enterprise_Edition
+
+         *  JMS - java message service - https://en.wikipedia.org/wiki/Java_Message_Service
+
+         *  JDBC - Java database connectivity - https://en.wikipedia.org/wiki/Java_Database_Connectivity
+
+         *  XML - Extensible Markup Language - https://en.wikipedia.org/wiki/XML
+
+         *  web services - A Web service communication between two electronic devices over a network
+
+         *  toronto- $72k
+
+         *  vancouver- $76k
+
+         *  waterloo- $73k
+         * 
+         * 
+         */
        
     }
 }
